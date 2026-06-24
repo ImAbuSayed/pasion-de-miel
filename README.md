@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pasión de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-miel/) |
+| **Get License** | [Official Music Licensing for Pasión de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, mami, la noche huele a ti y a tentación
+> Apaga la luz, que yo soy tu adicción
+> Nena, vámonos, nos perdemos tú y yo
+> En Barcelona la fiesta termina en mi habitación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
