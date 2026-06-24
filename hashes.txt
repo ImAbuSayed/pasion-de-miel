@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión de miel
+
+This log tracks the cryptographic history and versioning for the song **Pasión de miel** (pasion-de-miel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T06:52:59.767149 | `v1` | `de90028a79d6fefdef3a883c4a0e0b933166245f24a793fff482a5b91dcdc96c` | `f3b7f198ee3bde97d4b10f40ee193fbfa6395dfabe6277f6b6dc765f97d761bf` | `2026-06-24_pasion-de-miel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
